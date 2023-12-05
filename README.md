@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ary4ansh
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning C++, Python, JAVA
-- 💞️ I’m looking to collaborate on
+- 🌱 React Native, Flutter, DSA
+      currently learning Node.Js and ML
 - 📫 How to reach me laparyansh@gmail.com
 
 <!---
